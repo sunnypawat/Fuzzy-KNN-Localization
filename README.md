@@ -16,7 +16,7 @@ This work addresses the critical need for geometry-aware localization in resourc
 ## Repository Structure
 
 * `project.ipynb`: The main Jupyter Notebook containing the Python implementation of Centroid, WCL, and FKWCL algorithms, the simulation environment setup, and the performance evaluation against varying anchor layouts, anchor densities, and radio irregularity (DOI).
-* `Fuzzy-KNN-WCL_1.pdf`: The complete research paper ("Centroid vs WCL vs Fuzzy-KNN-WCL: Simulation and Performance Evaluation") detailing the methodology, mathematical model, simulation setup, and comprehensive results.
+* `report_KNN_FKWCL.pdf`: The complete research paper ("Centroid vs WCL vs Fuzzy-KNN-WCL: Simulation and Performance Evaluation") detailing the methodology, mathematical model, simulation setup, and comprehensive results.
 
 ## Key Features and Performance
 
