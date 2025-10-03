@@ -2,7 +2,7 @@
 
 **Authors:** Pawat Songkhopanit and Mariia Afonina
 
-## 🌟 Overview
+## Overview
 
 This repository contains the implementation and simulation environment for the **Fuzzy-KNN Weighted Centroid Localization (FKWCL)** algorithm, a novel, lightweight method designed to improve location estimation accuracy and robustness in Wireless Sensor Networks (WSN) and IoT environments.
 
@@ -13,12 +13,12 @@ The FKWCL algorithm enhances traditional Weighted Centroid Localization (WCL) by
 
 This work addresses the critical need for geometry-aware localization in resource-constrained range-free networks.
 
-## 📁 Repository Structure
+## Repository Structure
 
 * `project.ipynb`: The main Jupyter Notebook containing the Python implementation of Centroid, WCL, and FKWCL algorithms, the simulation environment setup, and the performance evaluation against varying anchor layouts, anchor densities, and radio irregularity (DOI).
 * `Fuzzy-KNN-WCL_1.pdf`: The complete research paper ("Centroid vs WCL vs Fuzzy-KNN-WCL: Simulation and Performance Evaluation") detailing the methodology, mathematical model, simulation setup, and comprehensive results.
 
-## 🚀 Key Features and Performance
+## Key Features and Performance
 
 The simulations demonstrate that FKWCL significantly outperforms Centroid and standard WCL, especially in challenging environments.
 
@@ -31,7 +31,7 @@ The simulations demonstrate that FKWCL significantly outperforms Centroid and st
 ### Visualization of FKWCL's Robustness
 
 
-## 🛠️ Requirements
+## Requirements
 
 To run the simulations in the `project.ipynb` notebook, you will need a standard Python data science environment.
 
